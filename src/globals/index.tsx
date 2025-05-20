@@ -1,0 +1,1 @@
+export const STORAGE_KEY = 'practice_app_storage_key';
